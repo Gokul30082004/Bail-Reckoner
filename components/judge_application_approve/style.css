@@ -1,0 +1,50 @@
+.proceed{
+	font-family: 'nunito', sans-serif;
+}
+.leave-reason
+{
+	width: 90%;
+	height: 40px;
+	padding: 10px;
+	font-size: 14px;
+	background-color: #F6F8FC;
+	border: 0px solid black;
+	border-radius: 10px;
+	margin: 10px;
+}
+.leave-form input{
+	width:50%;
+}
+.text_area{
+	font-size: 14px;
+	background-color: #F6F8FC;
+	border: 0px solid black;
+	border-radius: 10px;
+}
+
+.apply-leave-btn{
+	cursor:pointer;
+    padding: 1px;
+    height: 25px;
+    width: 80px;
+    font-weight: 500;
+    border: 0px solid black;
+    border-radius: 20px;
+    color: white;
+    background-color: #03A9F4;
+    font-size: 13px;
+    font-family: 'nunito',sans-serif;
+    margin:10px;
+}
+
+.apply-leave-btn:hover{
+	cursor: pointer;
+    border-color: #03A9F4;
+    border: 1px solid;
+    background-color: #ffffff;
+    color: #03A9F4;
+}
+
+h3{
+	color: #03A9F4;
+}
